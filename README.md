@@ -59,7 +59,7 @@ __Descripción de los datos de las tablas__
 
 __Tabla de Contenido__
 
-En el archivo 'consultas.ipynb' se encuentra el siguiente desarrollo de consultas:
+En el archivo __'consultas.ipynb'__ se encuentra el siguiente desarrollo de consultas:
 
 - Carga de librerías.
 - Conexión a la base de datos.
